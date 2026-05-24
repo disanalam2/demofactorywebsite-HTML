@@ -69,4 +69,6 @@ Since this is a static site built with pure HTML and CSS, there are no complex i
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+**All Rights Reserved.** 
+
+This project is public for viewing purposes only. No one is allowed to copy, distribute, modify, or use this code, in whole or in part, without explicit permission.
