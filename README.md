@@ -5,9 +5,7 @@ A lightweight, high-performance, and fully responsive landing page template desi
 ## 🚀 Live Demo
 [https://disanalam-project-factory.web.app](https://disanalam-project-factory.web.app)
 
-## 📸 Screenshot
-*(Optional: Add a screenshot of your project here by replacing the link below)*
-![Demo Industry Website Screenshot](https://via.placeholder.com/800x400.png?text=Demo+Industry+Website)
+
 
 ## 💡 About The Project
 
