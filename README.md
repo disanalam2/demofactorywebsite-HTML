@@ -1,17 +1,17 @@
-# PrimeTech Industries - Responsive HTML/CSS Landing Page
+# Demo Industry Website - Responsive HTML/CSS Landing Page
 
-A lightweight, high-performance, and fully responsive landing page designed for the B2B manufacturing and industrial sector. Built completely from scratch using pure HTML5 and vanilla CSS3.
+A lightweight, high-performance, and fully responsive landing page template designed for the B2B manufacturing and industrial sector. Built completely from scratch using pure HTML5 and vanilla CSS3.
 
 ## 🚀 Live Demo
-[Insert Link to Live Demo Here] (e.g., GitHub Pages, Netlify, or Vercel link)
+[https://disanalam-project-factory.web.app](https://disanalam-project-factory.web.app)
 
 ## 📸 Screenshot
 *(Optional: Add a screenshot of your project here by replacing the link below)*
-![PrimeTech Screenshot](https://via.placeholder.com/800x400.png?text=PrimeTech+Screenshot)
+![Demo Industry Website Screenshot](https://via.placeholder.com/800x400.png?text=Demo+Industry+Website)
 
 ## 💡 About The Project
 
-"PrimeTech Industries" is a frontend project created to demonstrate a strong command of foundational web technologies. By intentionally avoiding heavy CSS frameworks (like Bootstrap or Tailwind) and JavaScript, this project showcases the power of pure CSS for creating modern, attractive, and accessible user interfaces. 
+This "Demo Industry Website" is a frontend project created to demonstrate a strong command of foundational web technologies. By intentionally avoiding heavy CSS frameworks (like Bootstrap or Tailwind) and JavaScript, this project showcases the power of pure CSS for creating modern, attractive, and accessible user interfaces. 
 
 The design is tailored for industrial, factory, or corporate businesses, featuring a clean layout, strong calls to action, and an easy-to-navigate structure.
 
@@ -51,21 +51,21 @@ Since this is a static site built with pure HTML and CSS, there are no complex i
 ### Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/disanalam2/demofactorywebsite-HTML.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo-name/dist
+   cd demofactorywebsite-HTML/dist
    ```
 3. **Open the project:**
    Simply double-click the `index.html` file to open it in your default web browser, or use a tool like VS Code's "Live Server" extension for a better development experience.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Portfolio: [Your Portfolio Link]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@your-username](https://github.com/your-username)
+**[Your Name]**
+- Portfolio: https://disanalam.me
+- LinkedIn: https://www.linkedin.com/in/disanalam/
+- GitHub: [@disanalam2](https://github.com/disanalam2)
 
 ## 📝 License
 
